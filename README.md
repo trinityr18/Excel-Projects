@@ -1,1 +1,8 @@
-# Excel-Projects
+<h1>Excel projects</h1>
+<h2>Sales Analysis</h2>
+<b>Project Overview</b>: This project aims to analyze coffee sales data using Excel. The process involves gathering data, performing detailed analysis using Pivot Tables, and visualizing the results in an interactive dashboard. Key Excel functions and tools such as XLOOKUP, INDEX, MATCH, IF, and Pivot Tables are utilized.<br>
+<b>Data gathering</b>: In the data gathering stage, data is collected from excel file, and it is then meticulously cleaned to remove duplicates, handle missing values, and standardize formats. Utilizing powerful Excel functions such as XLOOKUP, INDEX, MATCH, and IF, the cleaned data is structured into a comprehensive table, ensuring it is well-prepared for detailed analysis.
+<br>
+<b>Data analysis</b>: In the data analysis stage, Pivot Tables are used to summarize the sales data effectively. Specifically, Pivot Tables are created to calculate total sales by coffee type for each month across different years, provide country-wise sales breakdowns, and identify top customers. These summaries help in examining key metrics such as total sales, average sales, and sales trends over time, providing valuable insights into the sales performance.
+<br>
+<b>Data visualization</b>: An interactive dashboard is developed to present the results of the coffee sales analysis visually. This dashboard includes various charts such as bar charts and line graphs, which offer a clear representation of the data. Interactivity features like timelines, filters, and slicers are enabled, allowing users to interact with the data, customize their views, and explore different aspects of the sales data. 

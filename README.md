@@ -1,5 +1,5 @@
 <h1>Excel projects</h1>
-<h2>Sales Analysis</h2>
+<h2>Coffee Sales Analysis</h2>
 <b>Project Overview</b>: This project aims to analyze coffee sales data using Excel. The process involves gathering data, performing detailed analysis using Pivot Tables, and visualizing the results in an interactive dashboard. Key Excel functions and tools such as XLOOKUP, INDEX, MATCH, IF, and Pivot Tables are utilized.<br>
 <b>Data gathering</b>: In the data gathering stage, data is collected from excel file, and it is then meticulously cleaned to remove duplicates, handle missing values, and standardize formats. Utilizing powerful Excel functions such as XLOOKUP, INDEX, MATCH, and IF, the cleaned data is structured into a comprehensive table, ensuring it is well-prepared for detailed analysis.
 <br>
